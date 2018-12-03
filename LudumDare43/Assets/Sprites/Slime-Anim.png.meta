@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: a59c63dd203d3c64c8d7e70153474318
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slime-Anim_0
+    21300002: Slime-Anim_1
+    21300004: Slime-Anim_2
+    21300006: Slime-Anim_3
+    21300008: Slime-Anim_4
+    21300010: Slime-Anim_5
+    21300012: Slime-Anim_6
+    21300014: Slime-Anim_7
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 278, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d947fcb1e2b89224d8c612ec9e4f091c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf291bbf71af044a8b4e1bf2fea378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b08238a986498049a7dd062c1cbb798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31cd8d5d69f26340b83e0cc1495afb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89290942a7be12243ae12d0f36e2d3dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebba7918a7637d4387bfedc7ff24105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d076db52a979f4bbb2f9966c31cddc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0d9660e4ec5fa41a5e2d89e83cbfde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 20, y: -140}
+      - {x: 18, y: -137}
+      - {x: 17, y: -133}
+      - {x: 10, y: -126}
+      - {x: 4, y: -125}
+      - {x: 3, y: -124}
+      - {x: -3, y: -124}
+      - {x: -4, y: -125}
+      - {x: -8, y: -125}
+      - {x: -11, y: -127}
+      - {x: -19, y: -135}
+      - {x: -20, y: -139}
+      - {x: -20, y: -153}
+      - {x: -15, y: -158}
+      - {x: -14, y: -158}
+      - {x: -12, y: -160}
+      - {x: 13, y: -160}
+      - {x: 16, y: -159}
+      - {x: 20, y: -155}
+    - - {x: 20, y: -100}
+      - {x: 18, y: -97}
+      - {x: 17, y: -93}
+      - {x: 10, y: -86}
+      - {x: 4, y: -85}
+      - {x: 3, y: -84}
+      - {x: -3, y: -84}
+      - {x: -4, y: -85}
+      - {x: -8, y: -85}
+      - {x: -10, y: -87}
+      - {x: -11, y: -87}
+      - {x: -19, y: -95}
+      - {x: -20, y: -99}
+      - {x: -20, y: -113}
+      - {x: -13, y: -120}
+      - {x: -8, y: -122}
+      - {x: 10, y: -122}
+      - {x: 13, y: -120}
+      - {x: 16, y: -119}
+      - {x: 20, y: -115}
+    - - {x: 18, y: -59}
+      - {x: 17, y: -56}
+      - {x: 12, y: -51}
+      - {x: 7, y: -49}
+      - {x: 4, y: -49}
+      - {x: 3, y: -48}
+      - {x: -3, y: -48}
+      - {x: -4, y: -49}
+      - {x: -8, y: -49}
+      - {x: -11, y: -51}
+      - {x: -19, y: -58}
+      - {x: -20, y: -61}
+      - {x: -20, y: -74}
+      - {x: -15, y: -79}
+      - {x: -14, y: -79}
+      - {x: -10, y: -82}
+      - {x: 11, y: -82}
+      - {x: 20, y: -73}
+      - {x: 20, y: -65}
+      - {x: 18, y: -61}
+    - - {x: 18, y: -19}
+      - {x: 17, y: -16}
+      - {x: 12, y: -11}
+      - {x: 7, y: -9}
+      - {x: 4, y: -9}
+      - {x: 3, y: -8}
+      - {x: -3, y: -8}
+      - {x: -4, y: -9}
+      - {x: -8, y: -9}
+      - {x: -11, y: -11}
+      - {x: -19, y: -18}
+      - {x: -20, y: -21}
+      - {x: -20, y: -34}
+      - {x: -15, y: -39}
+      - {x: -14, y: -39}
+      - {x: -10, y: -42}
+      - {x: 11, y: -42}
+      - {x: 20, y: -33}
+      - {x: 20, y: -25}
+      - {x: 18, y: -21}
+    - - {x: 20, y: 8}
+      - {x: 20, y: 20}
+      - {x: 18, y: 23}
+      - {x: 17, y: 27}
+      - {x: 12, y: 33}
+      - {x: 7, y: 35}
+      - {x: 4, y: 35}
+      - {x: 3, y: 36}
+      - {x: -3, y: 36}
+      - {x: -4, y: 35}
+      - {x: -8, y: 35}
+      - {x: -10, y: 33}
+      - {x: -11, y: 33}
+      - {x: -20, y: 24}
+      - {x: -20, y: 7}
+      - {x: -15, y: 2}
+      - {x: -14, y: 2}
+      - {x: -13, y: 0}
+      - {x: -8, y: -2}
+      - {x: 10, y: -2}
+      - {x: 14, y: 2}
+      - {x: 15, y: 4}
+      - {x: 16, y: 4}
+    - - {x: 20, y: 48}
+      - {x: 20, y: 60}
+      - {x: 18, y: 63}
+      - {x: 17, y: 67}
+      - {x: 12, y: 73}
+      - {x: 7, y: 75}
+      - {x: 4, y: 75}
+      - {x: 3, y: 76}
+      - {x: -3, y: 76}
+      - {x: -4, y: 75}
+      - {x: -8, y: 75}
+      - {x: -10, y: 73}
+      - {x: -11, y: 73}
+      - {x: -20, y: 64}
+      - {x: -20, y: 47}
+      - {x: -15, y: 42}
+      - {x: -14, y: 42}
+      - {x: -13, y: 40}
+      - {x: -8, y: 38}
+      - {x: 10, y: 38}
+      - {x: 14, y: 42}
+      - {x: 15, y: 44}
+      - {x: 16, y: 44}
+    - - {x: 20, y: 91}
+      - {x: 20, y: 103}
+      - {x: 18, y: 106}
+      - {x: 17, y: 110}
+      - {x: 12, y: 116}
+      - {x: 7, y: 118}
+      - {x: 4, y: 118}
+      - {x: 8, y: 118}
+      - {x: 14, y: 123}
+      - {x: 14, y: 124}
+      - {x: 19, y: 128}
+      - {x: 20, y: 131}
+      - {x: 20, y: 143}
+      - {x: 18, y: 146}
+      - {x: 17, y: 150}
+      - {x: 12, y: 156}
+      - {x: 7, y: 158}
+      - {x: 4, y: 158}
+      - {x: 3, y: 159}
+      - {x: -3, y: 159}
+      - {x: -4, y: 158}
+      - {x: -8, y: 158}
+      - {x: -10, y: 156}
+      - {x: -11, y: 156}
+      - {x: -19, y: 148}
+      - {x: -20, y: 144}
+      - {x: -20, y: 129}
+      - {x: -19, y: 128}
+      - {x: -19, y: 127}
+      - {x: -14, y: 121}
+      - {x: -7, y: 118}
+      - {x: -4, y: 118}
+      - {x: -8, y: 118}
+      - {x: -10, y: 116}
+      - {x: -11, y: 116}
+      - {x: -19, y: 108}
+      - {x: -20, y: 104}
+      - {x: -20, y: 89}
+      - {x: -19, y: 88}
+      - {x: -19, y: 87}
+      - {x: -14, y: 81}
+      - {x: -7, y: 78}
+      - {x: 8, y: 78}
+      - {x: 14, y: 83}
+      - {x: 14, y: 84}
+      - {x: 19, y: 88}
+    physicsShape: []
+    bones: []
+    spriteID: 39ec1eb8ba7d22a41bde2cdc046a7c9a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
